@@ -5,3 +5,12 @@ The data comes from the Centers for Disease Control and Prevention (CDC: https:/
 
 The dataset we work with is a sample of the public data released by CDC, where the outcome for the target feature death_yn is known (i.e., either 'yes' or 'no'):
 https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-with-Ge/n8mc-b4w4
+
+# Exercises
+(1). Prepare a data quality report for your CSV file. All the steps are implemented with Python code.
+
+(2). Prepare a data quality plan for the cleaned CSV file.
+
+(3). Exploring relationships between feature pairs:
+
+(4). Transform, extend or combine the existing features to create a few new features (at least 3) with the aim to better capture the problem domain and the target outcome. Justify the steps and choices you are making.
